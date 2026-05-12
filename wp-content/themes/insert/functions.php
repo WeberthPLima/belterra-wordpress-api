@@ -103,5 +103,6 @@ require_once get_template_directory() . '/API/contato.php';
 require_once get_template_directory() . '/API/politicas.php';
 require_once get_template_directory() . '/API/trabalheconosco.php';
 require_once get_template_directory() . '/API/equipe.php';
+require_once get_template_directory() . '/API/home.php';
 
 ?>
